@@ -1,0 +1,3 @@
+Gender,Diabetes Type,Retinopathy Status,Retinopathy Probability,Diagnosis Year,Systolic BP,Diastolic BP,HbA1c (mmol/mol),Estimated Avg Glucose (mg/dL)
+Male,Type 1,1,3.5,2015,120,80,6.5,140
+Female,Type 2,0,0.5,2018,130,85,7.2,150
